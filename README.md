@@ -1,2 +1,5 @@
-# CS370-T1202-Current-Emerging-Trends-in-CS-22EW1
-My CS 370 Course Work/Project 
+Computer scientists are problem solvers who engineer and develop computer-based solutions to automate, optimize, facilitate or streamline processes in order to maximize efficiencies in our daily tasks. This matters because the work of computer scientists drive productivity and help in ensuring the health of almost every business/non-business organization from a data processing, problem solving, software maintenance, and design perspective. All of this is done by leveraging the power of computers.
+
+My approach as a computer scientist towards problem solving typically involves a methodical and analytical approach that takes into consideration several key factors such as business requirements, desired outcome, end-user perspective, tools, implementation approach, as well as resources needed to complete the ask/task efficiently.
+
+Writing programs that that are maintainable, readable, adaptable, and benefits the developers community should always be the guiding principles of my ethical responsibilities to the end user, or the organization. I also should never develop programs that will violate any human rights or civil liberties laws. I should also always do my best to have the end users best interest at heart and avoid the waste of resources.
